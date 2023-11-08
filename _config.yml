@@ -20,13 +20,12 @@ author: Irene Vargas-Salazar
 ###############################################
 
 navbar-links:
-  Home Page: "https://ivargasa.github.io"
   About Me: "aboutme"
-  CV: "aboutme"
-  Publications: "aboutme"
-  Research: "aboutme"
-  Teaching: "aboutme"
-  Outreach: "aboutme"
+  CV: "https://ivargasa.github.io"
+  Publications: "https://ivargasa.github.io"
+  Research: "https://ivargasa.github.io"
+  Teaching: "https://ivargasa.github.io"
+  Outreach: "https://ivargasa.github.io"
   Extra:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
