@@ -22,8 +22,10 @@ author: Irene Vargas-Salazar
 navbar-links:
   About Me: "aboutme"
   CV: "https://ivargasa.github.io"
-  Publications: "https://ivargasa.github.io"
-  Research: "https://ivargasa.github.io"
+  Reseach:
+    - Publications: "https://beautifuljekyll.com"
+    - Conferences: "https://www.markdowntutorial.com/"
+    - Posters: "https://www.markdowntutorial.com/"
   Teaching: "https://ivargasa.github.io"
   Outreach: "https://ivargasa.github.io"
   Extra:
