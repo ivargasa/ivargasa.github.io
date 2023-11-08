@@ -20,11 +20,16 @@ author: Irene Vargas-Salazar
 ###############################################
 
 navbar-links:
+  Home Page: "https://ivargasa.github.io"
   About Me: "aboutme"
-  Resources:
+  CV: "aboutme"
+  Publications: "aboutme"
+  Research: "aboutme"
+  Teaching: "aboutme"
+  Outreach: "aboutme"
+  Extra:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://ivargasa.github.io"
 
 ################
 # --- Logo --- #
@@ -59,7 +64,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: irene-vargas-salazar-807429116
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +78,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0000-0001-7046-6517
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -82,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
