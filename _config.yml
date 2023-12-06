@@ -30,7 +30,7 @@ navbar-links:
   Outreach: "https://ivargasa.github.io"
   Extra:
     - Dance: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Contact: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -144,7 +144,7 @@ hover-col: "#FFD700"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#FFD700"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
