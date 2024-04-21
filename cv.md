@@ -4,4 +4,4 @@ title: Irene Vargas Salazar
 subtitle: Curriculum Vitae
 ---
 
-Here is the general text.
+<a href="ivargasa.github.io/_posts/Curriculum_vitae.pdf" target="_blank">PDF.</a>
