@@ -21,7 +21,7 @@ author: Irene Vargas-Salazar
 
 navbar-links:
   About Me: "aboutme"
-  CV: "_posts/CV"
+  CV: "cv"
   Research:
     - Papers: "https://beautifuljekyll.com"
     - Conference: "https://www.markdowntutorial.com/"
