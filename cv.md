@@ -5,3 +5,7 @@ subtitle: Curriculum Vitae
 ---
 
 <a href="_posts/Curriculum_vitae.pdf" target="_blank">PDF.</a>
+
+<object data="_posts/Curriculum_vitae.pdf" width="1000" height="1000" type='application/pdf'/>
+
+
