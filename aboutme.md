@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: General information about me
+subtitle: About
 ---
 
 My name is Inigo Montoya. I have the following qualities:
