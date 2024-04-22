@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Research:
-    - Papers: "https://beautifuljekyll.com"
+    - Papers: "papers"
     - Conference: "https://www.markdowntutorial.com/"
     - Posters: "https://www.markdowntutorial.com/"
   Teaching: "https://ivargasa.github.io"
